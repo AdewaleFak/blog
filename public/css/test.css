@@ -1,0 +1,14 @@
+h1 {
+    color: black;
+
+}
+
+.header {
+    padding: 20px;
+    text-align: center;
+    font-size: 30px;
+}
+
+img{
+    width: 150px;
+}
